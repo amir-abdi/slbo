@@ -9,7 +9,7 @@ A PyTorch version will be released later.
 1. OpenAI Baselines
 2. rllab (commit number `b3a2899`)
 3. MuJoCo (1.5)
-4. TensorFlow (>= 1.9)
+4. TensorFlow (>= 1.9 and <=1.13.2)
 5. NumPy (>= 1.14.5)
 6. Python 3.6
 
